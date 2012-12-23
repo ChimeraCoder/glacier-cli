@@ -1,5 +1,7 @@
-glacier-cli
+glacier-cli-arch
 ===========
+
+This is a fork of https://github.com/basak/glacier-cli designed for easy installation on an Arch Linux setup
 
 This tool provides a sysadmin-friendly command line interface to [Amazon
 Glacier][glacier], turning Glacier into an easy-to-use storage backend. It
